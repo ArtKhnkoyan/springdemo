@@ -1,0 +1,12 @@
+.content{
+    display: block;
+}
+.add-user {
+    float: left;
+}
+.add-author {
+    float: left;
+}
+.add-book {
+    float: left;
+}
